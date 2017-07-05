@@ -4,6 +4,7 @@ A personal repository for storing helpful learning resources
 ## PHP
 
 * [Laracasts](http://laracasts.com/) - Laravel and general PHP.
+* [The Coding Machine](http://bestpractices.thecodingmachine.com/php/error_handling.html) - Error handling best practices
 
 ## Javascript
 
