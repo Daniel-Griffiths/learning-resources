@@ -4,7 +4,7 @@ A personal repository for storing helpful learning resources
 ## PHP
 
 * [Laracasts](http://laracasts.com/) - Laravel and general PHP.
-* [The Coding Machine](http://bestpractices.thecodingmachine.com/php/error_handling.html) - Error handling best practices
+* [The Coding Machine](http://bestpractices.thecodingmachine.com/php/error_handling.html) - Error handling best practices.
 
 ## Javascript
 
@@ -16,8 +16,8 @@ A personal repository for storing helpful learning resources
 
 ## Sysadmin
 
-* [Servers For Hackers](https://serversforhackers.com/) - General sysadmin stuff.
+* [Servers For Hackers](https://serversforhackers.com/) - Sysadmin tutorials made for web developers.
 
 ## UI Inspiration
 
-* [Code Drops](https://tympanus.net/codrops/) Really cool resource for experimental UI/effects
+* [Code Drops](https://tympanus.net/codrops/) Really cool resource for experimental UI/effects.
