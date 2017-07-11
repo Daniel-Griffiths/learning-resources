@@ -20,6 +20,10 @@ A personal repository for storing helpful learning resources
 
 * [Servers For Hackers](https://serversforhackers.com/) - Sysadmin tutorials made for web developers.
 
+## UX
+* [Medium](https://medium.com/@kollinz/dropdown-alternatives-for-better-mobile-forms-53e40d641b53) - Form best practices.
+* [uxdesign](https://uxdesign.cc/design-better-forms-96fadca0f49c) - Form best practices.
+
 ## UI Inspiration
 
 * [Code Drops](https://tympanus.net/codrops/) Really cool resource for experimental UI/effects.
