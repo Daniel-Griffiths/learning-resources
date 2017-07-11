@@ -14,7 +14,7 @@ A personal repository for storing helpful learning resources
 
 ## Docker
 
-* [Shipping Docker](shippingdocker.com) - Docker quickstart guide.
+* [Shipping Docker](http://shippingdocker.com) - Docker quickstart guide.
 
 ## Sysadmin
 
