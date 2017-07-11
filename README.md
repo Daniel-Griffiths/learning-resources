@@ -27,3 +27,6 @@ A personal repository for storing helpful learning resources
 ## UI Inspiration
 
 * [Code Drops](https://tympanus.net/codrops/) Really cool resource for experimental UI/effects.
+
+## Communities 
+* [Laravel UK](https://laraveluk.slack.com) A neat Slack channel mainly aimed at Laravel devs.
