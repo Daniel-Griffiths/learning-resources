@@ -11,6 +11,9 @@ A personal repository for storing helpful learning resources
 ## Javascript
 
 * [Vuecasts](http://vuecasts.com/) - Vue.js.
+* [Intro to Vue](https://github.com/sdras/intro-to-vue) - Vue.js.
+
+
 
 ## Docker
 
