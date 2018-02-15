@@ -7,6 +7,9 @@ A personal repository for storing helpful learning resources
 * [Diving Laravel](https://divinglaravel.com/) - Tutorials about the inner workings of Laravel
 * [KNP University](https://knpuniversity.com/screencast/symfony) - Symfony tutorials
 * [The Coding Machine](http://bestpractices.thecodingmachine.com/php/error_handling.html) - Error handling best practices.
+* [Sergey](http://sergeyzhuk.me/2018/02/12/fast-webscraping-with-reactphp/) - Asynchronous web scraping with PHP.
+
+
 
 ## Javascript
 
