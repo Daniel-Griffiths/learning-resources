@@ -27,6 +27,7 @@ A personal repository for storing helpful learning resources
 * [Servers For Hackers](https://serversforhackers.com/) - Sysadmin tutorials made for web developers.
 
 ## CSS
+* [CSS Grid](https://cssgrid.io/) - CSS grid video series.
 * [Mozilla](https://mozilladevelopers.github.io/playground/) - CSS grid tutorial.
 
 ## UX
